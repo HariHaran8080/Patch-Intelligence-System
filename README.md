@@ -22,7 +22,7 @@ The **Patch Intelligence System** helps track and manage security patches for vu
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/Patch-Intelligence.git
+git clone https://github.com/HariHaran8080/Patch-Intelligence-System
 cd Patch-Intelligence
 ```
 
